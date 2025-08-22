@@ -6,3 +6,5 @@ Analysis And Reports
   3.Rainfall
   4.population
   5.land use and cover
+2. Pawana river Water pollution analysis
+  1.WQI
