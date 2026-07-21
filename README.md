@@ -8,3 +8,4 @@ Analysis And Reports
   5.land use and cover
 2. Pawana river Water pollution analysis
   1.WQI
+  2.possible reasons for the WQI
