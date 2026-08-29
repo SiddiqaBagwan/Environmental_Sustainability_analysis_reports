@@ -3,7 +3,6 @@
 Analysis And Reports
 
 1.Nagpur City Environmental analysis:
-
   1.WQI
   2.AQI
   3.Rainfall
@@ -11,6 +10,5 @@ Analysis And Reports
   5.land use and cover
   
 2. Pawana river Water pollution analysis
-   
   1.WQI
   2.possible reasons for the WQI
